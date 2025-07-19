@@ -1,0 +1,11737 @@
+{
+	"format_version": 14,
+	"general": {
+		"AudioFilename": "audio.mp3",
+		"AudioLeadIn": 0,
+		"AudioHash": null,
+		"PreviewTime": 44683,
+		"Countdown": 0,
+		"SampleSet": "Soft",
+		"StackLeniency": 0.7,
+		"Mode": 3,
+		"LetterboxInBreaks": 0,
+		"StoryFireInFront": 1,
+		"UseSkinSprites": 0,
+		"AlwaysShowPlayfield": 0,
+		"OverlayPosition": "NoChange",
+		"SkinPreference": null,
+		"EpilepsyWarning": 0,
+		"CountdownOffset": 0,
+		"SpecialStyle": 0,
+		"WidescreenStoryboard": 1,
+		"SamplesMatchPlaybackRate": 0
+	},
+	"editor": {
+		"Bookmarks": [
+			895,
+			15664,
+			30433,
+			45202,
+			59971,
+			74741,
+			89510,
+			104279,
+			119048,
+			133818,
+			148587
+		],
+		"DistanceSpacing": 1,
+		"BeatDivisor": 4,
+		"GridSize": 32,
+		"TimelineZoom": 0.7999998
+	},
+	"metadata": {
+		"Title": "Grin",
+		"TitleUnicode": "Grin",
+		"Artist": "HyuN",
+		"ArtistUnicode": "HyuN",
+		"Creator": "IceDynamix",
+		"Version": "Normal",
+		"Source": "",
+		"Tags": [
+			"chordjack",
+			"dense",
+			"piano",
+			"featured",
+			"artist",
+			"FA",
+			"house",
+			"MUSIQLO",
+			"토토리카",
+			"숲",
+			"totorica",
+			"forest",
+			"Healing",
+			"바람과",
+			"시간",
+			"속",
+			"in",
+			"the",
+			"wind",
+			"and",
+			"in",
+			"time",
+			"Innocent",
+			"Records",
+			"d3ip",
+			"35",
+			"hyunesis",
+			"osu!"
+		],
+		"BeatmapID": 2011245,
+		"BeatmapSetID": 923488
+	},
+	"difficulty": {
+		"HPDrainRate": 6.5,
+		"CircleSize": 4.0,
+		"OverallDifficulty": 6.5,
+		"ApproachRate": 5.0,
+		"SliderMultiplier": 1.4,
+		"SliderTickRate": 1.0
+	},
+	"events": [
+		{
+			"type": "0",
+			"startTime": 0,
+			"params": [
+				"\"28186b656f2e05bdef2b452ef1e29416.jpg\"",
+				"0",
+				"0"
+			]
+		}
+	],
+	"timing_points": [
+		{
+			"time": 895,
+			"beatLength": 461.538461538462,
+			"meter": 4,
+			"sampleSet": 2,
+			"sampleIndex": 1,
+			"volume": 40,
+			"uninherited": 1,
+			"effects": 0
+		},
+		{
+			"time": 45202,
+			"beatLength": -100.0,
+			"meter": 4,
+			"sampleSet": 2,
+			"sampleIndex": 1,
+			"volume": 40,
+			"uninherited": 0,
+			"effects": 1
+		},
+		{
+			"time": 59971,
+			"beatLength": -100.0,
+			"meter": 4,
+			"sampleSet": 2,
+			"sampleIndex": 1,
+			"volume": 40,
+			"uninherited": 0,
+			"effects": 0
+		},
+		{
+			"time": 133818,
+			"beatLength": -100.0,
+			"meter": 4,
+			"sampleSet": 2,
+			"sampleIndex": 1,
+			"volume": 40,
+			"uninherited": 0,
+			"effects": 1
+		},
+		{
+			"time": 148587,
+			"beatLength": -100.0,
+			"meter": 4,
+			"sampleSet": 2,
+			"sampleIndex": 1,
+			"volume": 40,
+			"uninherited": 0,
+			"effects": 0
+		}
+	],
+	"colours": {
+		"colours": {}
+	},
+	"hit_objects": [
+		{
+			"x": 0,
+			"y": 192,
+			"time": 15664,
+			"type": 5,
+			"hitSound": 4,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 1,
+			"y": 192,
+			"time": 16356,
+			"type": 1,
+			"hitSound": 0,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 2,
+			"y": 192,
+			"time": 17048,
+			"type": 1,
+			"hitSound": 0,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 3,
+			"y": 192,
+			"time": 17510,
+			"type": 1,
+			"hitSound": 0,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 3,
+			"y": 192,
+			"time": 18202,
+			"type": 1,
+			"hitSound": 0,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 1,
+			"y": 192,
+			"time": 18433,
+			"type": 1,
+			"hitSound": 0,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 2,
+			"y": 192,
+			"time": 18664,
+			"type": 1,
+			"hitSound": 0,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 1,
+			"y": 192,
+			"time": 18895,
+			"type": 1,
+			"hitSound": 0,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 0,
+			"y": 192,
+			"time": 19356,
+			"type": 1,
+			"hitSound": 0,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 1,
+			"y": 192,
+			"time": 20048,
+			"type": 1,
+			"hitSound": 0,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 2,
+			"y": 192,
+			"time": 20741,
+			"type": 1,
+			"hitSound": 0,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 3,
+			"y": 192,
+			"time": 21202,
+			"type": 1,
+			"hitSound": 0,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 1,
+			"y": 192,
+			"time": 21895,
+			"type": 1,
+			"hitSound": 0,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 2,
+			"y": 192,
+			"time": 22125,
+			"type": 1,
+			"hitSound": 0,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 0,
+			"y": 192,
+			"time": 22356,
+			"type": 1,
+			"hitSound": 0,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 3,
+			"y": 192,
+			"time": 22587,
+			"type": 1,
+			"hitSound": 0,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 0,
+			"y": 192,
+			"time": 23048,
+			"type": 1,
+			"hitSound": 0,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 1,
+			"y": 192,
+			"time": 23741,
+			"type": 1,
+			"hitSound": 0,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 2,
+			"y": 192,
+			"time": 24433,
+			"type": 1,
+			"hitSound": 0,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 3,
+			"y": 192,
+			"time": 24895,
+			"type": 1,
+			"hitSound": 0,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 1,
+			"y": 192,
+			"time": 25587,
+			"type": 1,
+			"hitSound": 0,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 0,
+			"y": 192,
+			"time": 25818,
+			"type": 1,
+			"hitSound": 0,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 3,
+			"y": 192,
+			"time": 26048,
+			"type": 1,
+			"hitSound": 0,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 1,
+			"y": 192,
+			"time": 26279,
+			"type": 1,
+			"hitSound": 0,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 2,
+			"y": 192,
+			"time": 26510,
+			"type": 1,
+			"hitSound": 0,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 3,
+			"y": 192,
+			"time": 26741,
+			"type": 1,
+			"hitSound": 0,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 1,
+			"y": 192,
+			"time": 27433,
+			"type": 1,
+			"hitSound": 0,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 2,
+			"y": 192,
+			"time": 27895,
+			"type": 1,
+			"hitSound": 0,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 1,
+			"y": 192,
+			"time": 28125,
+			"type": 1,
+			"hitSound": 0,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 2,
+			"y": 192,
+			"time": 28356,
+			"type": 1,
+			"hitSound": 0,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 0,
+			"y": 192,
+			"time": 28587,
+			"type": 1,
+			"hitSound": 6,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 3,
+			"y": 192,
+			"time": 28587,
+			"type": 1,
+			"hitSound": 0,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 1,
+			"y": 192,
+			"time": 28818,
+			"type": 1,
+			"hitSound": 2,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 0,
+			"y": 192,
+			"time": 29048,
+			"type": 1,
+			"hitSound": 6,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 3,
+			"y": 192,
+			"time": 29048,
+			"type": 1,
+			"hitSound": 0,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 2,
+			"y": 192,
+			"time": 29279,
+			"type": 1,
+			"hitSound": 2,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 0,
+			"y": 192,
+			"time": 29510,
+			"type": 1,
+			"hitSound": 6,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 1,
+			"y": 192,
+			"time": 29510,
+			"type": 1,
+			"hitSound": 0,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 3,
+			"y": 192,
+			"time": 29741,
+			"type": 1,
+			"hitSound": 2,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 0,
+			"y": 192,
+			"time": 29971,
+			"type": 1,
+			"hitSound": 12,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 1,
+			"y": 192,
+			"time": 29971,
+			"type": 1,
+			"hitSound": 0,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 3,
+			"y": 192,
+			"time": 30202,
+			"type": 1,
+			"hitSound": 8,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 2,
+			"y": 192,
+			"time": 30202,
+			"type": 1,
+			"hitSound": 4,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 1,
+			"y": 192,
+			"time": 30433,
+			"type": 1,
+			"hitSound": 14,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 0,
+			"y": 192,
+			"time": 30433,
+			"type": 1,
+			"hitSound": 0,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 3,
+			"y": 192,
+			"time": 30664,
+			"type": 1,
+			"hitSound": 0,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 1,
+			"y": 192,
+			"time": 30895,
+			"type": 1,
+			"hitSound": 2,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 2,
+			"y": 192,
+			"time": 31125,
+			"type": 1,
+			"hitSound": 0,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 1,
+			"y": 192,
+			"time": 31356,
+			"type": 1,
+			"hitSound": 10,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 0,
+			"y": 192,
+			"time": 31587,
+			"type": 1,
+			"hitSound": 0,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 3,
+			"y": 192,
+			"time": 31818,
+			"type": 1,
+			"hitSound": 2,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 2,
+			"y": 192,
+			"time": 32048,
+			"type": 1,
+			"hitSound": 0,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 0,
+			"y": 192,
+			"time": 32279,
+			"type": 1,
+			"hitSound": 10,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 3,
+			"y": 192,
+			"time": 32510,
+			"type": 1,
+			"hitSound": 0,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 0,
+			"y": 192,
+			"time": 32741,
+			"type": 1,
+			"hitSound": 2,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 2,
+			"y": 192,
+			"time": 32971,
+			"type": 1,
+			"hitSound": 0,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 0,
+			"y": 192,
+			"time": 33202,
+			"type": 1,
+			"hitSound": 10,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 1,
+			"y": 192,
+			"time": 33433,
+			"type": 1,
+			"hitSound": 0,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 2,
+			"y": 192,
+			"time": 33664,
+			"type": 1,
+			"hitSound": 2,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 0,
+			"y": 192,
+			"time": 33895,
+			"type": 1,
+			"hitSound": 0,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 1,
+			"y": 192,
+			"time": 34125,
+			"type": 1,
+			"hitSound": 10,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 2,
+			"y": 192,
+			"time": 34356,
+			"type": 1,
+			"hitSound": 0,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 1,
+			"y": 192,
+			"time": 34587,
+			"type": 1,
+			"hitSound": 2,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 0,
+			"y": 192,
+			"time": 34818,
+			"type": 1,
+			"hitSound": 0,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 2,
+			"y": 192,
+			"time": 35048,
+			"type": 1,
+			"hitSound": 10,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 1,
+			"y": 192,
+			"time": 35279,
+			"type": 1,
+			"hitSound": 0,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 2,
+			"y": 192,
+			"time": 35510,
+			"type": 1,
+			"hitSound": 2,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 3,
+			"y": 192,
+			"time": 35741,
+			"type": 1,
+			"hitSound": 0,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 1,
+			"y": 192,
+			"time": 35971,
+			"type": 1,
+			"hitSound": 10,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 0,
+			"y": 192,
+			"time": 36202,
+			"type": 1,
+			"hitSound": 0,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 1,
+			"y": 192,
+			"time": 36433,
+			"type": 1,
+			"hitSound": 2,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 2,
+			"y": 192,
+			"time": 36664,
+			"type": 1,
+			"hitSound": 0,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 3,
+			"y": 192,
+			"time": 36895,
+			"type": 128,
+			"hitSound": 10,
+			"column": 0,
+			"is_hold": true,
+			"end_time": 37818,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 0,
+			"y": 192,
+			"time": 37125,
+			"type": 1,
+			"hitSound": 0,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 2,
+			"y": 192,
+			"time": 37356,
+			"type": 1,
+			"hitSound": 2,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 1,
+			"y": 192,
+			"time": 37587,
+			"type": 1,
+			"hitSound": 0,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 2,
+			"y": 192,
+			"time": 37818,
+			"type": 1,
+			"hitSound": 14,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 0,
+			"y": 192,
+			"time": 37818,
+			"type": 1,
+			"hitSound": 0,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 1,
+			"y": 192,
+			"time": 38048,
+			"type": 1,
+			"hitSound": 0,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 3,
+			"y": 192,
+			"time": 38279,
+			"type": 1,
+			"hitSound": 2,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 0,
+			"y": 192,
+			"time": 38510,
+			"type": 1,
+			"hitSound": 0,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 2,
+			"y": 192,
+			"time": 38741,
+			"type": 1,
+			"hitSound": 14,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 3,
+			"y": 192,
+			"time": 38741,
+			"type": 1,
+			"hitSound": 0,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 1,
+			"y": 192,
+			"time": 38971,
+			"type": 1,
+			"hitSound": 0,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 3,
+			"y": 192,
+			"time": 39202,
+			"type": 1,
+			"hitSound": 6,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 0,
+			"y": 192,
+			"time": 39202,
+			"type": 1,
+			"hitSound": 0,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 2,
+			"y": 192,
+			"time": 39433,
+			"type": 1,
+			"hitSound": 2,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 0,
+			"y": 192,
+			"time": 39664,
+			"type": 1,
+			"hitSound": 10,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 1,
+			"y": 192,
+			"time": 39664,
+			"type": 1,
+			"hitSound": 0,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 3,
+			"y": 192,
+			"time": 40010,
+			"type": 1,
+			"hitSound": 6,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 2,
+			"y": 192,
+			"time": 40010,
+			"type": 1,
+			"hitSound": 0,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 1,
+			"y": 192,
+			"time": 40356,
+			"type": 1,
+			"hitSound": 6,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 0,
+			"y": 192,
+			"time": 40356,
+			"type": 1,
+			"hitSound": 0,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 3,
+			"y": 192,
+			"time": 40587,
+			"type": 1,
+			"hitSound": 14,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 2,
+			"y": 192,
+			"time": 40587,
+			"type": 1,
+			"hitSound": 0,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 1,
+			"y": 192,
+			"time": 40818,
+			"type": 1,
+			"hitSound": 2,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 2,
+			"y": 192,
+			"time": 41048,
+			"type": 1,
+			"hitSound": 10,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 3,
+			"y": 192,
+			"time": 41048,
+			"type": 1,
+			"hitSound": 4,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 0,
+			"y": 192,
+			"time": 41279,
+			"type": 1,
+			"hitSound": 2,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 2,
+			"y": 192,
+			"time": 41510,
+			"type": 1,
+			"hitSound": 12,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 3,
+			"y": 192,
+			"time": 41510,
+			"type": 1,
+			"hitSound": 2,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 1,
+			"y": 192,
+			"time": 41741,
+			"type": 1,
+			"hitSound": 0,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 2,
+			"y": 192,
+			"time": 41971,
+			"type": 1,
+			"hitSound": 2,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 1,
+			"y": 192,
+			"time": 42202,
+			"type": 1,
+			"hitSound": 0,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 0,
+			"y": 192,
+			"time": 42433,
+			"type": 128,
+			"hitSound": 10,
+			"column": 0,
+			"is_hold": true,
+			"end_time": 43356,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 3,
+			"y": 192,
+			"time": 42664,
+			"type": 1,
+			"hitSound": 0,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 2,
+			"y": 192,
+			"time": 42895,
+			"type": 1,
+			"hitSound": 2,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 3,
+			"y": 192,
+			"time": 43125,
+			"type": 1,
+			"hitSound": 0,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 2,
+			"y": 192,
+			"time": 43356,
+			"type": 1,
+			"hitSound": 14,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 1,
+			"y": 192,
+			"time": 43356,
+			"type": 1,
+			"hitSound": 0,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 0,
+			"y": 192,
+			"time": 43818,
+			"type": 1,
+			"hitSound": 10,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 1,
+			"y": 192,
+			"time": 43818,
+			"type": 1,
+			"hitSound": 4,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 3,
+			"y": 192,
+			"time": 44279,
+			"type": 1,
+			"hitSound": 12,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 0,
+			"y": 192,
+			"time": 44279,
+			"type": 1,
+			"hitSound": 2,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 2,
+			"y": 192,
+			"time": 44510,
+			"type": 1,
+			"hitSound": 2,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 1,
+			"y": 192,
+			"time": 44741,
+			"type": 1,
+			"hitSound": 10,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 0,
+			"y": 192,
+			"time": 44741,
+			"type": 1,
+			"hitSound": 4,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 2,
+			"y": 192,
+			"time": 44971,
+			"type": 1,
+			"hitSound": 2,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 3,
+			"y": 192,
+			"time": 45202,
+			"type": 1,
+			"hitSound": 6,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 0,
+			"y": 192,
+			"time": 45202,
+			"type": 1,
+			"hitSound": 0,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 2,
+			"y": 192,
+			"time": 45433,
+			"type": 1,
+			"hitSound": 8,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 0,
+			"y": 192,
+			"time": 45664,
+			"type": 1,
+			"hitSound": 2,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 1,
+			"y": 192,
+			"time": 45664,
+			"type": 1,
+			"hitSound": 0,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 2,
+			"y": 192,
+			"time": 45895,
+			"type": 1,
+			"hitSound": 8,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 3,
+			"y": 192,
+			"time": 46125,
+			"type": 1,
+			"hitSound": 2,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 0,
+			"y": 192,
+			"time": 46125,
+			"type": 1,
+			"hitSound": 0,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 1,
+			"y": 192,
+			"time": 46356,
+			"type": 1,
+			"hitSound": 8,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 2,
+			"y": 192,
+			"time": 46587,
+			"type": 1,
+			"hitSound": 2,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 3,
+			"y": 192,
+			"time": 46587,
+			"type": 1,
+			"hitSound": 0,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 1,
+			"y": 192,
+			"time": 46818,
+			"type": 1,
+			"hitSound": 8,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 3,
+			"y": 192,
+			"time": 47048,
+			"type": 1,
+			"hitSound": 2,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 0,
+			"y": 192,
+			"time": 47048,
+			"type": 1,
+			"hitSound": 0,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 2,
+			"y": 192,
+			"time": 47279,
+			"type": 1,
+			"hitSound": 8,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 1,
+			"y": 192,
+			"time": 47510,
+			"type": 1,
+			"hitSound": 2,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 3,
+			"y": 192,
+			"time": 47510,
+			"type": 1,
+			"hitSound": 0,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 0,
+			"y": 192,
+			"time": 47741,
+			"type": 1,
+			"hitSound": 8,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 3,
+			"y": 192,
+			"time": 47971,
+			"type": 1,
+			"hitSound": 2,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 2,
+			"y": 192,
+			"time": 47971,
+			"type": 1,
+			"hitSound": 0,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 1,
+			"y": 192,
+			"time": 48202,
+			"type": 1,
+			"hitSound": 8,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 0,
+			"y": 192,
+			"time": 48202,
+			"type": 1,
+			"hitSound": 0,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 3,
+			"y": 192,
+			"time": 48433,
+			"type": 1,
+			"hitSound": 2,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 2,
+			"y": 192,
+			"time": 48433,
+			"type": 1,
+			"hitSound": 0,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 1,
+			"y": 192,
+			"time": 48664,
+			"type": 1,
+			"hitSound": 8,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 0,
+			"y": 192,
+			"time": 48664,
+			"type": 1,
+			"hitSound": 0,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 2,
+			"y": 192,
+			"time": 48895,
+			"type": 1,
+			"hitSound": 6,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 3,
+			"y": 192,
+			"time": 48895,
+			"type": 1,
+			"hitSound": 0,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 0,
+			"y": 192,
+			"time": 49125,
+			"type": 1,
+			"hitSound": 8,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 3,
+			"y": 192,
+			"time": 49356,
+			"type": 1,
+			"hitSound": 2,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 1,
+			"y": 192,
+			"time": 49356,
+			"type": 1,
+			"hitSound": 0,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 2,
+			"y": 192,
+			"time": 49587,
+			"type": 1,
+			"hitSound": 8,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 3,
+			"y": 192,
+			"time": 49818,
+			"type": 1,
+			"hitSound": 2,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 0,
+			"y": 192,
+			"time": 49818,
+			"type": 1,
+			"hitSound": 0,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 2,
+			"y": 192,
+			"time": 50048,
+			"type": 1,
+			"hitSound": 8,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 1,
+			"y": 192,
+			"time": 50279,
+			"type": 1,
+			"hitSound": 2,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 3,
+			"y": 192,
+			"time": 50279,
+			"type": 1,
+			"hitSound": 0,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 0,
+			"y": 192,
+			"time": 50510,
+			"type": 1,
+			"hitSound": 8,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 3,
+			"y": 192,
+			"time": 50741,
+			"type": 1,
+			"hitSound": 2,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 1,
+			"y": 192,
+			"time": 50741,
+			"type": 1,
+			"hitSound": 0,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 0,
+			"y": 192,
+			"time": 50971,
+			"type": 1,
+			"hitSound": 8,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 2,
+			"y": 192,
+			"time": 51202,
+			"type": 1,
+			"hitSound": 2,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 3,
+			"y": 192,
+			"time": 51202,
+			"type": 1,
+			"hitSound": 0,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 0,
+			"y": 192,
+			"time": 51433,
+			"type": 1,
+			"hitSound": 8,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 2,
+			"y": 192,
+			"time": 51664,
+			"type": 1,
+			"hitSound": 2,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 3,
+			"y": 192,
+			"time": 51664,
+			"type": 1,
+			"hitSound": 0,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 1,
+			"y": 192,
+			"time": 51895,
+			"type": 1,
+			"hitSound": 8,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 0,
+			"y": 192,
+			"time": 52125,
+			"type": 1,
+			"hitSound": 2,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 2,
+			"y": 192,
+			"time": 52125,
+			"type": 1,
+			"hitSound": 0,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 3,
+			"y": 192,
+			"time": 52356,
+			"type": 1,
+			"hitSound": 10,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 1,
+			"y": 192,
+			"time": 52356,
+			"type": 1,
+			"hitSound": 0,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 2,
+			"y": 192,
+			"time": 52587,
+			"type": 1,
+			"hitSound": 6,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 0,
+			"y": 192,
+			"time": 52587,
+			"type": 1,
+			"hitSound": 0,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 1,
+			"y": 192,
+			"time": 52818,
+			"type": 1,
+			"hitSound": 8,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 3,
+			"y": 192,
+			"time": 53048,
+			"type": 1,
+			"hitSound": 2,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 2,
+			"y": 192,
+			"time": 53048,
+			"type": 1,
+			"hitSound": 0,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 0,
+			"y": 192,
+			"time": 53279,
+			"type": 1,
+			"hitSound": 8,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 3,
+			"y": 192,
+			"time": 53510,
+			"type": 1,
+			"hitSound": 2,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 2,
+			"y": 192,
+			"time": 53510,
+			"type": 1,
+			"hitSound": 0,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 1,
+			"y": 192,
+			"time": 53741,
+			"type": 1,
+			"hitSound": 8,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 2,
+			"y": 192,
+			"time": 53971,
+			"type": 1,
+			"hitSound": 2,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 0,
+			"y": 192,
+			"time": 53971,
+			"type": 1,
+			"hitSound": 0,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 1,
+			"y": 192,
+			"time": 54202,
+			"type": 1,
+			"hitSound": 8,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 2,
+			"y": 192,
+			"time": 54433,
+			"type": 1,
+			"hitSound": 2,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 0,
+			"y": 192,
+			"time": 54433,
+			"type": 1,
+			"hitSound": 0,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 3,
+			"y": 192,
+			"time": 54664,
+			"type": 1,
+			"hitSound": 8,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 0,
+			"y": 192,
+			"time": 54895,
+			"type": 1,
+			"hitSound": 2,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 2,
+			"y": 192,
+			"time": 54895,
+			"type": 1,
+			"hitSound": 0,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 1,
+			"y": 192,
+			"time": 55125,
+			"type": 1,
+			"hitSound": 8,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 3,
+			"y": 192,
+			"time": 55356,
+			"type": 1,
+			"hitSound": 2,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 0,
+			"y": 192,
+			"time": 55356,
+			"type": 1,
+			"hitSound": 0,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 2,
+			"y": 192,
+			"time": 55587,
+			"type": 1,
+			"hitSound": 8,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 1,
+			"y": 192,
+			"time": 55818,
+			"type": 1,
+			"hitSound": 2,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 3,
+			"y": 192,
+			"time": 55818,
+			"type": 1,
+			"hitSound": 0,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 0,
+			"y": 192,
+			"time": 56048,
+			"type": 1,
+			"hitSound": 10,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 3,
+			"y": 192,
+			"time": 56279,
+			"type": 1,
+			"hitSound": 6,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 2,
+			"y": 192,
+			"time": 56279,
+			"type": 1,
+			"hitSound": 0,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 3,
+			"y": 192,
+			"time": 56510,
+			"type": 1,
+			"hitSound": 8,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 0,
+			"y": 192,
+			"time": 56741,
+			"type": 1,
+			"hitSound": 2,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 1,
+			"y": 192,
+			"time": 56741,
+			"type": 1,
+			"hitSound": 0,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 0,
+			"y": 192,
+			"time": 56971,
+			"type": 1,
+			"hitSound": 8,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 3,
+			"y": 192,
+			"time": 57202,
+			"type": 1,
+			"hitSound": 6,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 2,
+			"y": 192,
+			"time": 57202,
+			"type": 1,
+			"hitSound": 0,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 2,
+			"y": 192,
+			"time": 57433,
+			"type": 1,
+			"hitSound": 8,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 0,
+			"y": 192,
+			"time": 57664,
+			"type": 1,
+			"hitSound": 2,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 1,
+			"y": 192,
+			"time": 57664,
+			"type": 1,
+			"hitSound": 0,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 1,
+			"y": 192,
+			"time": 57895,
+			"type": 1,
+			"hitSound": 8,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 3,
+			"y": 192,
+			"time": 58125,
+			"type": 1,
+			"hitSound": 6,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 2,
+			"y": 192,
+			"time": 58125,
+			"type": 1,
+			"hitSound": 0,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 0,
+			"y": 192,
+			"time": 58356,
+			"type": 1,
+			"hitSound": 10,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 1,
+			"y": 192,
+			"time": 58587,
+			"type": 1,
+			"hitSound": 6,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 2,
+			"y": 192,
+			"time": 58587,
+			"type": 1,
+			"hitSound": 0,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 3,
+			"y": 192,
+			"time": 58818,
+			"type": 1,
+			"hitSound": 10,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 0,
+			"y": 192,
+			"time": 59048,
+			"type": 1,
+			"hitSound": 6,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 1,
+			"y": 192,
+			"time": 59048,
+			"type": 1,
+			"hitSound": 0,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 3,
+			"y": 192,
+			"time": 59279,
+			"type": 1,
+			"hitSound": 10,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 2,
+			"y": 192,
+			"time": 59510,
+			"type": 1,
+			"hitSound": 6,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 1,
+			"y": 192,
+			"time": 59510,
+			"type": 1,
+			"hitSound": 0,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 0,
+			"y": 192,
+			"time": 59741,
+			"type": 1,
+			"hitSound": 10,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 2,
+			"y": 192,
+			"time": 59971,
+			"type": 1,
+			"hitSound": 6,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 3,
+			"y": 192,
+			"time": 59971,
+			"type": 1,
+			"hitSound": 0,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 1,
+			"y": 192,
+			"time": 60202,
+			"type": 1,
+			"hitSound": 0,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 0,
+			"y": 192,
+			"time": 60433,
+			"type": 1,
+			"hitSound": 8,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 2,
+			"y": 192,
+			"time": 60664,
+			"type": 1,
+			"hitSound": 0,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 3,
+			"y": 192,
+			"time": 60895,
+			"type": 1,
+			"hitSound": 2,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 0,
+			"y": 192,
+			"time": 61125,
+			"type": 1,
+			"hitSound": 0,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 2,
+			"y": 192,
+			"time": 61356,
+			"type": 1,
+			"hitSound": 8,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 1,
+			"y": 192,
+			"time": 61587,
+			"type": 1,
+			"hitSound": 0,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 3,
+			"y": 192,
+			"time": 61818,
+			"type": 1,
+			"hitSound": 2,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 2,
+			"y": 192,
+			"time": 62048,
+			"type": 1,
+			"hitSound": 0,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 0,
+			"y": 192,
+			"time": 62279,
+			"type": 1,
+			"hitSound": 8,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 1,
+			"y": 192,
+			"time": 62510,
+			"type": 1,
+			"hitSound": 0,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 2,
+			"y": 192,
+			"time": 62741,
+			"type": 1,
+			"hitSound": 2,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 3,
+			"y": 192,
+			"time": 62971,
+			"type": 1,
+			"hitSound": 0,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 1,
+			"y": 192,
+			"time": 63202,
+			"type": 1,
+			"hitSound": 8,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 2,
+			"y": 192,
+			"time": 63433,
+			"type": 1,
+			"hitSound": 0,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 0,
+			"y": 192,
+			"time": 63664,
+			"type": 1,
+			"hitSound": 2,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 3,
+			"y": 192,
+			"time": 63895,
+			"type": 1,
+			"hitSound": 0,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 0,
+			"y": 192,
+			"time": 64125,
+			"type": 1,
+			"hitSound": 8,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 3,
+			"y": 192,
+			"time": 64356,
+			"type": 1,
+			"hitSound": 0,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 1,
+			"y": 192,
+			"time": 64587,
+			"type": 1,
+			"hitSound": 2,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 0,
+			"y": 192,
+			"time": 64818,
+			"type": 1,
+			"hitSound": 0,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 1,
+			"y": 192,
+			"time": 65048,
+			"type": 1,
+			"hitSound": 8,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 2,
+			"y": 192,
+			"time": 65279,
+			"type": 1,
+			"hitSound": 0,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 3,
+			"y": 192,
+			"time": 65510,
+			"type": 1,
+			"hitSound": 2,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 2,
+			"y": 192,
+			"time": 65741,
+			"type": 1,
+			"hitSound": 0,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 0,
+			"y": 192,
+			"time": 65971,
+			"type": 1,
+			"hitSound": 8,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 1,
+			"y": 192,
+			"time": 66202,
+			"type": 1,
+			"hitSound": 0,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 3,
+			"y": 192,
+			"time": 66433,
+			"type": 128,
+			"hitSound": 2,
+			"column": 0,
+			"is_hold": true,
+			"end_time": 67356,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 0,
+			"y": 192,
+			"time": 66664,
+			"type": 1,
+			"hitSound": 0,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 1,
+			"y": 192,
+			"time": 66895,
+			"type": 1,
+			"hitSound": 8,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 0,
+			"y": 192,
+			"time": 67125,
+			"type": 1,
+			"hitSound": 2,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 1,
+			"y": 192,
+			"time": 67356,
+			"type": 1,
+			"hitSound": 4,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 2,
+			"y": 192,
+			"time": 67356,
+			"type": 1,
+			"hitSound": 2,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 0,
+			"y": 192,
+			"time": 67587,
+			"type": 1,
+			"hitSound": 0,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 2,
+			"y": 192,
+			"time": 67818,
+			"type": 1,
+			"hitSound": 8,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 1,
+			"y": 192,
+			"time": 68048,
+			"type": 1,
+			"hitSound": 0,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 2,
+			"y": 192,
+			"time": 68279,
+			"type": 1,
+			"hitSound": 2,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 3,
+			"y": 192,
+			"time": 68510,
+			"type": 1,
+			"hitSound": 0,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 1,
+			"y": 192,
+			"time": 68741,
+			"type": 1,
+			"hitSound": 8,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 0,
+			"y": 192,
+			"time": 68971,
+			"type": 1,
+			"hitSound": 0,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 3,
+			"y": 192,
+			"time": 69202,
+			"type": 1,
+			"hitSound": 2,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 2,
+			"y": 192,
+			"time": 69433,
+			"type": 1,
+			"hitSound": 0,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 0,
+			"y": 192,
+			"time": 69664,
+			"type": 1,
+			"hitSound": 8,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 1,
+			"y": 192,
+			"time": 69895,
+			"type": 1,
+			"hitSound": 0,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 2,
+			"y": 192,
+			"time": 70125,
+			"type": 1,
+			"hitSound": 2,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 0,
+			"y": 192,
+			"time": 70356,
+			"type": 1,
+			"hitSound": 0,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 3,
+			"y": 192,
+			"time": 70587,
+			"type": 1,
+			"hitSound": 8,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 2,
+			"y": 192,
+			"time": 70818,
+			"type": 1,
+			"hitSound": 0,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 0,
+			"y": 192,
+			"time": 71048,
+			"type": 1,
+			"hitSound": 2,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 2,
+			"y": 192,
+			"time": 71279,
+			"type": 1,
+			"hitSound": 0,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 0,
+			"y": 192,
+			"time": 71510,
+			"type": 1,
+			"hitSound": 8,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 2,
+			"y": 192,
+			"time": 71741,
+			"type": 1,
+			"hitSound": 0,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 1,
+			"y": 192,
+			"time": 71971,
+			"type": 1,
+			"hitSound": 2,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 3,
+			"y": 192,
+			"time": 72202,
+			"type": 1,
+			"hitSound": 0,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 1,
+			"y": 192,
+			"time": 72433,
+			"type": 1,
+			"hitSound": 8,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 3,
+			"y": 192,
+			"time": 72664,
+			"type": 1,
+			"hitSound": 0,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 2,
+			"y": 192,
+			"time": 72895,
+			"type": 1,
+			"hitSound": 10,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 0,
+			"y": 192,
+			"time": 72895,
+			"type": 1,
+			"hitSound": 4,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 1,
+			"y": 192,
+			"time": 73125,
+			"type": 1,
+			"hitSound": 2,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 0,
+			"y": 192,
+			"time": 73356,
+			"type": 1,
+			"hitSound": 10,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 3,
+			"y": 192,
+			"time": 73356,
+			"type": 1,
+			"hitSound": 4,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 2,
+			"y": 192,
+			"time": 73587,
+			"type": 1,
+			"hitSound": 2,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 3,
+			"y": 192,
+			"time": 73818,
+			"type": 1,
+			"hitSound": 10,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 1,
+			"y": 192,
+			"time": 73818,
+			"type": 1,
+			"hitSound": 4,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 0,
+			"y": 192,
+			"time": 74048,
+			"type": 1,
+			"hitSound": 2,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 1,
+			"y": 192,
+			"time": 74279,
+			"type": 1,
+			"hitSound": 10,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 2,
+			"y": 192,
+			"time": 74279,
+			"type": 1,
+			"hitSound": 4,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 3,
+			"y": 192,
+			"time": 74510,
+			"type": 1,
+			"hitSound": 2,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 1,
+			"y": 192,
+			"time": 74741,
+			"type": 1,
+			"hitSound": 10,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 2,
+			"y": 192,
+			"time": 74741,
+			"type": 1,
+			"hitSound": 4,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 0,
+			"y": 192,
+			"time": 74971,
+			"type": 1,
+			"hitSound": 0,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 2,
+			"y": 192,
+			"time": 75202,
+			"type": 1,
+			"hitSound": 2,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 0,
+			"y": 192,
+			"time": 75433,
+			"type": 1,
+			"hitSound": 0,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 3,
+			"y": 192,
+			"time": 75664,
+			"type": 1,
+			"hitSound": 10,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 2,
+			"y": 192,
+			"time": 75895,
+			"type": 1,
+			"hitSound": 0,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 1,
+			"y": 192,
+			"time": 76125,
+			"type": 1,
+			"hitSound": 2,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 2,
+			"y": 192,
+			"time": 76356,
+			"type": 1,
+			"hitSound": 0,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 0,
+			"y": 192,
+			"time": 76587,
+			"type": 1,
+			"hitSound": 10,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 1,
+			"y": 192,
+			"time": 76818,
+			"type": 1,
+			"hitSound": 0,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 3,
+			"y": 192,
+			"time": 77048,
+			"type": 1,
+			"hitSound": 2,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 2,
+			"y": 192,
+			"time": 77279,
+			"type": 1,
+			"hitSound": 0,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 0,
+			"y": 192,
+			"time": 77510,
+			"type": 1,
+			"hitSound": 10,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 1,
+			"y": 192,
+			"time": 77741,
+			"type": 1,
+			"hitSound": 0,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 2,
+			"y": 192,
+			"time": 77971,
+			"type": 1,
+			"hitSound": 2,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 1,
+			"y": 192,
+			"time": 78202,
+			"type": 1,
+			"hitSound": 0,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 3,
+			"y": 192,
+			"time": 78433,
+			"type": 1,
+			"hitSound": 10,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 0,
+			"y": 192,
+			"time": 78664,
+			"type": 1,
+			"hitSound": 0,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 3,
+			"y": 192,
+			"time": 78895,
+			"type": 1,
+			"hitSound": 2,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 0,
+			"y": 192,
+			"time": 79125,
+			"type": 1,
+			"hitSound": 0,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 2,
+			"y": 192,
+			"time": 79356,
+			"type": 1,
+			"hitSound": 10,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 1,
+			"y": 192,
+			"time": 79587,
+			"type": 1,
+			"hitSound": 0,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 0,
+			"y": 192,
+			"time": 79818,
+			"type": 1,
+			"hitSound": 2,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 1,
+			"y": 192,
+			"time": 80048,
+			"type": 1,
+			"hitSound": 0,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 3,
+			"y": 192,
+			"time": 80279,
+			"type": 1,
+			"hitSound": 10,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 2,
+			"y": 192,
+			"time": 80510,
+			"type": 1,
+			"hitSound": 0,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 1,
+			"y": 192,
+			"time": 80741,
+			"type": 1,
+			"hitSound": 2,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 2,
+			"y": 192,
+			"time": 80971,
+			"type": 1,
+			"hitSound": 0,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 3,
+			"y": 192,
+			"time": 81202,
+			"type": 128,
+			"hitSound": 10,
+			"column": 0,
+			"is_hold": true,
+			"end_time": 82125,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 0,
+			"y": 192,
+			"time": 81433,
+			"type": 1,
+			"hitSound": 0,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 1,
+			"y": 192,
+			"time": 81664,
+			"type": 1,
+			"hitSound": 2,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 0,
+			"y": 192,
+			"time": 81895,
+			"type": 1,
+			"hitSound": 0,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 1,
+			"y": 192,
+			"time": 82125,
+			"type": 1,
+			"hitSound": 14,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 2,
+			"y": 192,
+			"time": 82125,
+			"type": 1,
+			"hitSound": 0,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 0,
+			"y": 192,
+			"time": 82356,
+			"type": 1,
+			"hitSound": 0,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 3,
+			"y": 192,
+			"time": 82587,
+			"type": 1,
+			"hitSound": 2,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 1,
+			"y": 192,
+			"time": 82818,
+			"type": 1,
+			"hitSound": 0,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 3,
+			"y": 192,
+			"time": 83048,
+			"type": 1,
+			"hitSound": 8,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 0,
+			"y": 192,
+			"time": 83048,
+			"type": 1,
+			"hitSound": 6,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 2,
+			"y": 192,
+			"time": 83279,
+			"type": 1,
+			"hitSound": 2,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 0,
+			"y": 192,
+			"time": 83510,
+			"type": 1,
+			"hitSound": 10,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 3,
+			"y": 192,
+			"time": 83741,
+			"type": 1,
+			"hitSound": 2,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 1,
+			"y": 192,
+			"time": 83971,
+			"type": 1,
+			"hitSound": 6,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 0,
+			"y": 192,
+			"time": 83971,
+			"type": 1,
+			"hitSound": 8,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 2,
+			"y": 192,
+			"time": 84318,
+			"type": 1,
+			"hitSound": 6,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 3,
+			"y": 192,
+			"time": 84318,
+			"type": 1,
+			"hitSound": 8,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 1,
+			"y": 192,
+			"time": 84664,
+			"type": 1,
+			"hitSound": 6,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 0,
+			"y": 192,
+			"time": 84664,
+			"type": 1,
+			"hitSound": 8,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 3,
+			"y": 192,
+			"time": 84895,
+			"type": 1,
+			"hitSound": 14,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 2,
+			"y": 192,
+			"time": 84895,
+			"type": 1,
+			"hitSound": 0,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 0,
+			"y": 192,
+			"time": 85125,
+			"type": 1,
+			"hitSound": 2,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 1,
+			"y": 192,
+			"time": 85356,
+			"type": 1,
+			"hitSound": 14,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 3,
+			"y": 192,
+			"time": 85356,
+			"type": 1,
+			"hitSound": 0,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 2,
+			"y": 192,
+			"time": 85587,
+			"type": 1,
+			"hitSound": 2,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 0,
+			"y": 192,
+			"time": 85818,
+			"type": 1,
+			"hitSound": 14,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 3,
+			"y": 192,
+			"time": 85818,
+			"type": 1,
+			"hitSound": 0,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 1,
+			"y": 192,
+			"time": 86048,
+			"type": 1,
+			"hitSound": 2,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 3,
+			"y": 192,
+			"time": 86279,
+			"type": 1,
+			"hitSound": 10,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 2,
+			"y": 192,
+			"time": 86510,
+			"type": 1,
+			"hitSound": 2,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 1,
+			"y": 192,
+			"time": 86741,
+			"type": 1,
+			"hitSound": 14,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 3,
+			"y": 192,
+			"time": 86741,
+			"type": 1,
+			"hitSound": 0,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 0,
+			"y": 192,
+			"time": 86971,
+			"type": 1,
+			"hitSound": 2,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 2,
+			"y": 192,
+			"time": 87202,
+			"type": 1,
+			"hitSound": 10,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 3,
+			"y": 192,
+			"time": 87433,
+			"type": 1,
+			"hitSound": 2,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 0,
+			"y": 192,
+			"time": 87664,
+			"type": 1,
+			"hitSound": 14,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 2,
+			"y": 192,
+			"time": 87664,
+			"type": 1,
+			"hitSound": 0,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 1,
+			"y": 192,
+			"time": 87895,
+			"type": 1,
+			"hitSound": 2,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 2,
+			"y": 192,
+			"time": 88125,
+			"type": 1,
+			"hitSound": 14,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 0,
+			"y": 192,
+			"time": 88125,
+			"type": 1,
+			"hitSound": 0,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 3,
+			"y": 192,
+			"time": 88356,
+			"type": 1,
+			"hitSound": 2,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 2,
+			"y": 192,
+			"time": 88587,
+			"type": 1,
+			"hitSound": 14,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 0,
+			"y": 192,
+			"time": 88587,
+			"type": 1,
+			"hitSound": 0,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 1,
+			"y": 192,
+			"time": 88818,
+			"type": 1,
+			"hitSound": 2,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 3,
+			"y": 192,
+			"time": 89048,
+			"type": 1,
+			"hitSound": 6,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 2,
+			"y": 192,
+			"time": 89048,
+			"type": 1,
+			"hitSound": 8,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 0,
+			"y": 192,
+			"time": 89279,
+			"type": 1,
+			"hitSound": 2,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 1,
+			"y": 192,
+			"time": 89510,
+			"type": 1,
+			"hitSound": 14,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 2,
+			"y": 192,
+			"time": 89510,
+			"type": 1,
+			"hitSound": 0,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 3,
+			"y": 192,
+			"time": 89741,
+			"type": 1,
+			"hitSound": 0,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 2,
+			"y": 192,
+			"time": 89971,
+			"type": 1,
+			"hitSound": 2,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 1,
+			"y": 192,
+			"time": 90202,
+			"type": 1,
+			"hitSound": 0,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 0,
+			"y": 192,
+			"time": 90433,
+			"type": 1,
+			"hitSound": 10,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 1,
+			"y": 192,
+			"time": 90664,
+			"type": 1,
+			"hitSound": 0,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 2,
+			"y": 192,
+			"time": 90895,
+			"type": 1,
+			"hitSound": 2,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 3,
+			"y": 192,
+			"time": 91125,
+			"type": 1,
+			"hitSound": 0,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 1,
+			"y": 192,
+			"time": 91356,
+			"type": 1,
+			"hitSound": 10,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 3,
+			"y": 192,
+			"time": 91587,
+			"type": 1,
+			"hitSound": 0,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 2,
+			"y": 192,
+			"time": 91818,
+			"type": 1,
+			"hitSound": 2,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 0,
+			"y": 192,
+			"time": 92048,
+			"type": 1,
+			"hitSound": 0,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 1,
+			"y": 192,
+			"time": 92279,
+			"type": 1,
+			"hitSound": 10,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 3,
+			"y": 192,
+			"time": 92510,
+			"type": 1,
+			"hitSound": 0,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 1,
+			"y": 192,
+			"time": 92741,
+			"type": 1,
+			"hitSound": 2,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 2,
+			"y": 192,
+			"time": 92971,
+			"type": 1,
+			"hitSound": 0,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 0,
+			"y": 192,
+			"time": 93202,
+			"type": 1,
+			"hitSound": 10,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 1,
+			"y": 192,
+			"time": 93433,
+			"type": 1,
+			"hitSound": 0,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 3,
+			"y": 192,
+			"time": 93664,
+			"type": 1,
+			"hitSound": 2,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 0,
+			"y": 192,
+			"time": 93895,
+			"type": 1,
+			"hitSound": 0,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 2,
+			"y": 192,
+			"time": 94125,
+			"type": 1,
+			"hitSound": 10,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 3,
+			"y": 192,
+			"time": 94356,
+			"type": 1,
+			"hitSound": 0,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 0,
+			"y": 192,
+			"time": 94587,
+			"type": 1,
+			"hitSound": 2,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 1,
+			"y": 192,
+			"time": 94818,
+			"type": 1,
+			"hitSound": 0,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 3,
+			"y": 192,
+			"time": 95048,
+			"type": 1,
+			"hitSound": 10,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 0,
+			"y": 192,
+			"time": 95279,
+			"type": 1,
+			"hitSound": 0,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 2,
+			"y": 192,
+			"time": 95510,
+			"type": 1,
+			"hitSound": 2,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 0,
+			"y": 192,
+			"time": 95741,
+			"type": 1,
+			"hitSound": 0,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 1,
+			"y": 192,
+			"time": 95971,
+			"type": 1,
+			"hitSound": 10,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 3,
+			"y": 192,
+			"time": 96202,
+			"type": 1,
+			"hitSound": 0,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 0,
+			"y": 192,
+			"time": 96433,
+			"type": 1,
+			"hitSound": 2,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 3,
+			"y": 192,
+			"time": 96664,
+			"type": 1,
+			"hitSound": 2,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 1,
+			"y": 192,
+			"time": 96895,
+			"type": 1,
+			"hitSound": 14,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 0,
+			"y": 192,
+			"time": 96895,
+			"type": 1,
+			"hitSound": 0,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 2,
+			"y": 192,
+			"time": 97125,
+			"type": 1,
+			"hitSound": 0,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 3,
+			"y": 192,
+			"time": 97356,
+			"type": 1,
+			"hitSound": 2,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 2,
+			"y": 192,
+			"time": 97587,
+			"type": 1,
+			"hitSound": 0,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 0,
+			"y": 192,
+			"time": 97818,
+			"type": 128,
+			"hitSound": 10,
+			"column": 0,
+			"is_hold": true,
+			"end_time": 98741,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 2,
+			"y": 192,
+			"time": 98048,
+			"type": 1,
+			"hitSound": 0,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 3,
+			"y": 192,
+			"time": 98279,
+			"type": 1,
+			"hitSound": 2,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 2,
+			"y": 192,
+			"time": 98510,
+			"type": 1,
+			"hitSound": 0,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 3,
+			"y": 192,
+			"time": 98741,
+			"type": 1,
+			"hitSound": 10,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 1,
+			"y": 192,
+			"time": 98971,
+			"type": 1,
+			"hitSound": 0,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 2,
+			"y": 192,
+			"time": 99202,
+			"type": 1,
+			"hitSound": 2,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 3,
+			"y": 192,
+			"time": 99433,
+			"type": 1,
+			"hitSound": 0,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 0,
+			"y": 192,
+			"time": 99664,
+			"type": 1,
+			"hitSound": 10,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 2,
+			"y": 192,
+			"time": 99895,
+			"type": 1,
+			"hitSound": 0,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 3,
+			"y": 192,
+			"time": 100125,
+			"type": 1,
+			"hitSound": 2,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 1,
+			"y": 192,
+			"time": 100356,
+			"type": 1,
+			"hitSound": 0,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 0,
+			"y": 192,
+			"time": 100587,
+			"type": 1,
+			"hitSound": 10,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 1,
+			"y": 192,
+			"time": 100818,
+			"type": 1,
+			"hitSound": 0,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 2,
+			"y": 192,
+			"time": 101048,
+			"type": 1,
+			"hitSound": 2,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 1,
+			"y": 192,
+			"time": 101279,
+			"type": 1,
+			"hitSound": 0,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 0,
+			"y": 192,
+			"time": 101510,
+			"type": 1,
+			"hitSound": 10,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 3,
+			"y": 192,
+			"time": 101741,
+			"type": 1,
+			"hitSound": 0,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 1,
+			"y": 192,
+			"time": 101971,
+			"type": 1,
+			"hitSound": 2,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 0,
+			"y": 192,
+			"time": 102202,
+			"type": 1,
+			"hitSound": 0,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 3,
+			"y": 192,
+			"time": 102433,
+			"type": 1,
+			"hitSound": 14,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 1,
+			"y": 192,
+			"time": 102433,
+			"type": 1,
+			"hitSound": 0,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 2,
+			"y": 192,
+			"time": 102664,
+			"type": 1,
+			"hitSound": 2,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 3,
+			"y": 192,
+			"time": 102895,
+			"type": 1,
+			"hitSound": 10,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 0,
+			"y": 192,
+			"time": 102895,
+			"type": 1,
+			"hitSound": 4,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 1,
+			"y": 192,
+			"time": 103125,
+			"type": 1,
+			"hitSound": 2,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 0,
+			"y": 192,
+			"time": 103356,
+			"type": 1,
+			"hitSound": 14,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 3,
+			"y": 192,
+			"time": 103356,
+			"type": 1,
+			"hitSound": 0,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 2,
+			"y": 192,
+			"time": 103587,
+			"type": 1,
+			"hitSound": 2,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 3,
+			"y": 192,
+			"time": 103818,
+			"type": 1,
+			"hitSound": 14,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 0,
+			"y": 192,
+			"time": 103818,
+			"type": 1,
+			"hitSound": 0,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 1,
+			"y": 192,
+			"time": 104048,
+			"type": 1,
+			"hitSound": 2,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 0,
+			"y": 192,
+			"time": 104279,
+			"type": 1,
+			"hitSound": 14,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 2,
+			"y": 192,
+			"time": 104279,
+			"type": 1,
+			"hitSound": 0,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 1,
+			"y": 192,
+			"time": 104510,
+			"type": 1,
+			"hitSound": 0,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 3,
+			"y": 192,
+			"time": 104741,
+			"type": 1,
+			"hitSound": 2,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 2,
+			"y": 192,
+			"time": 104971,
+			"type": 1,
+			"hitSound": 0,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 0,
+			"y": 192,
+			"time": 105202,
+			"type": 1,
+			"hitSound": 10,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 3,
+			"y": 192,
+			"time": 105433,
+			"type": 1,
+			"hitSound": 0,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 1,
+			"y": 192,
+			"time": 105664,
+			"type": 1,
+			"hitSound": 2,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 2,
+			"y": 192,
+			"time": 105895,
+			"type": 1,
+			"hitSound": 0,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 3,
+			"y": 192,
+			"time": 106125,
+			"type": 1,
+			"hitSound": 10,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 1,
+			"y": 192,
+			"time": 106356,
+			"type": 1,
+			"hitSound": 0,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 0,
+			"y": 192,
+			"time": 106587,
+			"type": 1,
+			"hitSound": 2,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 2,
+			"y": 192,
+			"time": 106818,
+			"type": 1,
+			"hitSound": 0,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 1,
+			"y": 192,
+			"time": 107048,
+			"type": 1,
+			"hitSound": 10,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 2,
+			"y": 192,
+			"time": 107279,
+			"type": 1,
+			"hitSound": 0,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 3,
+			"y": 192,
+			"time": 107510,
+			"type": 1,
+			"hitSound": 2,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 1,
+			"y": 192,
+			"time": 107741,
+			"type": 1,
+			"hitSound": 0,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 2,
+			"y": 192,
+			"time": 107971,
+			"type": 1,
+			"hitSound": 10,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 0,
+			"y": 192,
+			"time": 108202,
+			"type": 1,
+			"hitSound": 0,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 2,
+			"y": 192,
+			"time": 108433,
+			"type": 1,
+			"hitSound": 2,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 0,
+			"y": 192,
+			"time": 108664,
+			"type": 1,
+			"hitSound": 0,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 1,
+			"y": 192,
+			"time": 108895,
+			"type": 1,
+			"hitSound": 10,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 3,
+			"y": 192,
+			"time": 109125,
+			"type": 1,
+			"hitSound": 0,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 1,
+			"y": 192,
+			"time": 109356,
+			"type": 1,
+			"hitSound": 2,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 3,
+			"y": 192,
+			"time": 109587,
+			"type": 1,
+			"hitSound": 0,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 1,
+			"y": 192,
+			"time": 109818,
+			"type": 1,
+			"hitSound": 10,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 0,
+			"y": 192,
+			"time": 110048,
+			"type": 1,
+			"hitSound": 0,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 2,
+			"y": 192,
+			"time": 110279,
+			"type": 1,
+			"hitSound": 2,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 1,
+			"y": 192,
+			"time": 110510,
+			"type": 1,
+			"hitSound": 0,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 3,
+			"y": 192,
+			"time": 110741,
+			"type": 1,
+			"hitSound": 10,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 2,
+			"y": 192,
+			"time": 110971,
+			"type": 1,
+			"hitSound": 0,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 1,
+			"y": 192,
+			"time": 111202,
+			"type": 1,
+			"hitSound": 2,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 0,
+			"y": 192,
+			"time": 111433,
+			"type": 1,
+			"hitSound": 2,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 3,
+			"y": 192,
+			"time": 111664,
+			"type": 1,
+			"hitSound": 12,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 1,
+			"y": 192,
+			"time": 111664,
+			"type": 1,
+			"hitSound": 2,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 2,
+			"y": 192,
+			"time": 111895,
+			"type": 1,
+			"hitSound": 0,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 0,
+			"y": 192,
+			"time": 112125,
+			"type": 1,
+			"hitSound": 2,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 1,
+			"y": 192,
+			"time": 112356,
+			"type": 1,
+			"hitSound": 0,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 3,
+			"y": 192,
+			"time": 112587,
+			"type": 1,
+			"hitSound": 10,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 1,
+			"y": 192,
+			"time": 112818,
+			"type": 1,
+			"hitSound": 0,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 2,
+			"y": 192,
+			"time": 113048,
+			"type": 1,
+			"hitSound": 2,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 3,
+			"y": 192,
+			"time": 113279,
+			"type": 1,
+			"hitSound": 0,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 0,
+			"y": 192,
+			"time": 113510,
+			"type": 1,
+			"hitSound": 10,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 1,
+			"y": 192,
+			"time": 113741,
+			"type": 1,
+			"hitSound": 0,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 2,
+			"y": 192,
+			"time": 113971,
+			"type": 1,
+			"hitSound": 2,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 3,
+			"y": 192,
+			"time": 114202,
+			"type": 1,
+			"hitSound": 0,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 2,
+			"y": 192,
+			"time": 114433,
+			"type": 1,
+			"hitSound": 10,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 1,
+			"y": 192,
+			"time": 114664,
+			"type": 1,
+			"hitSound": 0,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 0,
+			"y": 192,
+			"time": 114895,
+			"type": 1,
+			"hitSound": 2,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 2,
+			"y": 192,
+			"time": 115125,
+			"type": 1,
+			"hitSound": 0,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 3,
+			"y": 192,
+			"time": 115356,
+			"type": 1,
+			"hitSound": 10,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 0,
+			"y": 192,
+			"time": 115587,
+			"type": 1,
+			"hitSound": 0,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 2,
+			"y": 192,
+			"time": 115818,
+			"type": 1,
+			"hitSound": 2,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 1,
+			"y": 192,
+			"time": 116048,
+			"type": 1,
+			"hitSound": 0,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 3,
+			"y": 192,
+			"time": 116279,
+			"type": 1,
+			"hitSound": 10,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 2,
+			"y": 192,
+			"time": 116510,
+			"type": 1,
+			"hitSound": 0,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 0,
+			"y": 192,
+			"time": 116741,
+			"type": 1,
+			"hitSound": 2,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 1,
+			"y": 192,
+			"time": 116971,
+			"type": 1,
+			"hitSound": 0,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 3,
+			"y": 192,
+			"time": 117202,
+			"type": 1,
+			"hitSound": 14,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 2,
+			"y": 192,
+			"time": 117202,
+			"type": 1,
+			"hitSound": 0,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 1,
+			"y": 192,
+			"time": 117433,
+			"type": 1,
+			"hitSound": 2,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 0,
+			"y": 192,
+			"time": 117664,
+			"type": 1,
+			"hitSound": 10,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 2,
+			"y": 192,
+			"time": 117664,
+			"type": 1,
+			"hitSound": 4,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 1,
+			"y": 192,
+			"time": 117895,
+			"type": 1,
+			"hitSound": 2,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 3,
+			"y": 192,
+			"time": 118125,
+			"type": 1,
+			"hitSound": 14,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 0,
+			"y": 192,
+			"time": 118125,
+			"type": 1,
+			"hitSound": 0,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 2,
+			"y": 192,
+			"time": 118356,
+			"type": 1,
+			"hitSound": 2,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 0,
+			"y": 192,
+			"time": 118587,
+			"type": 1,
+			"hitSound": 10,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 3,
+			"y": 192,
+			"time": 118587,
+			"type": 1,
+			"hitSound": 4,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 1,
+			"y": 192,
+			"time": 118818,
+			"type": 1,
+			"hitSound": 2,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 2,
+			"y": 192,
+			"time": 119048,
+			"type": 1,
+			"hitSound": 12,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 0,
+			"y": 192,
+			"time": 119048,
+			"type": 1,
+			"hitSound": 2,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 1,
+			"y": 192,
+			"time": 119279,
+			"type": 1,
+			"hitSound": 0,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 3,
+			"y": 192,
+			"time": 119510,
+			"type": 1,
+			"hitSound": 2,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 0,
+			"y": 192,
+			"time": 119741,
+			"type": 1,
+			"hitSound": 0,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 2,
+			"y": 192,
+			"time": 119971,
+			"type": 1,
+			"hitSound": 10,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 3,
+			"y": 192,
+			"time": 120202,
+			"type": 1,
+			"hitSound": 0,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 1,
+			"y": 192,
+			"time": 120433,
+			"type": 1,
+			"hitSound": 2,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 0,
+			"y": 192,
+			"time": 120664,
+			"type": 1,
+			"hitSound": 0,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 2,
+			"y": 192,
+			"time": 120895,
+			"type": 1,
+			"hitSound": 10,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 1,
+			"y": 192,
+			"time": 121125,
+			"type": 1,
+			"hitSound": 0,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 3,
+			"y": 192,
+			"time": 121356,
+			"type": 1,
+			"hitSound": 2,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 2,
+			"y": 192,
+			"time": 121587,
+			"type": 1,
+			"hitSound": 0,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 0,
+			"y": 192,
+			"time": 121818,
+			"type": 1,
+			"hitSound": 10,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 3,
+			"y": 192,
+			"time": 122048,
+			"type": 1,
+			"hitSound": 0,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 1,
+			"y": 192,
+			"time": 122279,
+			"type": 1,
+			"hitSound": 2,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 0,
+			"y": 192,
+			"time": 122510,
+			"type": 1,
+			"hitSound": 0,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 3,
+			"y": 192,
+			"time": 122741,
+			"type": 1,
+			"hitSound": 10,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 2,
+			"y": 192,
+			"time": 122971,
+			"type": 1,
+			"hitSound": 0,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 1,
+			"y": 192,
+			"time": 123202,
+			"type": 1,
+			"hitSound": 2,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 0,
+			"y": 192,
+			"time": 123433,
+			"type": 1,
+			"hitSound": 0,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 2,
+			"y": 192,
+			"time": 123664,
+			"type": 1,
+			"hitSound": 10,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 1,
+			"y": 192,
+			"time": 123895,
+			"type": 1,
+			"hitSound": 0,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 3,
+			"y": 192,
+			"time": 124125,
+			"type": 1,
+			"hitSound": 2,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 0,
+			"y": 192,
+			"time": 124356,
+			"type": 1,
+			"hitSound": 0,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 1,
+			"y": 192,
+			"time": 124587,
+			"type": 1,
+			"hitSound": 10,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 3,
+			"y": 192,
+			"time": 124818,
+			"type": 1,
+			"hitSound": 0,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 0,
+			"y": 192,
+			"time": 125048,
+			"type": 1,
+			"hitSound": 2,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 1,
+			"y": 192,
+			"time": 125279,
+			"type": 1,
+			"hitSound": 0,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 3,
+			"y": 192,
+			"time": 125510,
+			"type": 128,
+			"hitSound": 10,
+			"column": 0,
+			"is_hold": true,
+			"end_time": 126433,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 0,
+			"y": 192,
+			"time": 125741,
+			"type": 1,
+			"hitSound": 0,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 1,
+			"y": 192,
+			"time": 125971,
+			"type": 1,
+			"hitSound": 2,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 0,
+			"y": 192,
+			"time": 126202,
+			"type": 1,
+			"hitSound": 2,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 2,
+			"y": 192,
+			"time": 126433,
+			"type": 1,
+			"hitSound": 14,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 1,
+			"y": 192,
+			"time": 126433,
+			"type": 1,
+			"hitSound": 0,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 0,
+			"y": 192,
+			"time": 126664,
+			"type": 1,
+			"hitSound": 0,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 3,
+			"y": 192,
+			"time": 126895,
+			"type": 1,
+			"hitSound": 2,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 1,
+			"y": 192,
+			"time": 127125,
+			"type": 1,
+			"hitSound": 0,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 2,
+			"y": 192,
+			"time": 127356,
+			"type": 1,
+			"hitSound": 14,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 0,
+			"y": 192,
+			"time": 127356,
+			"type": 1,
+			"hitSound": 0,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 3,
+			"y": 192,
+			"time": 127587,
+			"type": 1,
+			"hitSound": 0,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 1,
+			"y": 192,
+			"time": 127818,
+			"type": 1,
+			"hitSound": 2,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 2,
+			"y": 192,
+			"time": 127818,
+			"type": 1,
+			"hitSound": 4,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 0,
+			"y": 192,
+			"time": 128048,
+			"type": 1,
+			"hitSound": 2,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 3,
+			"y": 192,
+			"time": 128279,
+			"type": 1,
+			"hitSound": 14,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 2,
+			"y": 192,
+			"time": 128279,
+			"type": 1,
+			"hitSound": 0,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 1,
+			"y": 192,
+			"time": 128625,
+			"type": 1,
+			"hitSound": 6,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 0,
+			"y": 192,
+			"time": 128625,
+			"type": 1,
+			"hitSound": 0,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 3,
+			"y": 192,
+			"time": 128971,
+			"type": 1,
+			"hitSound": 6,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 2,
+			"y": 192,
+			"time": 128971,
+			"type": 1,
+			"hitSound": 0,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 0,
+			"y": 192,
+			"time": 129202,
+			"type": 1,
+			"hitSound": 14,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 1,
+			"y": 192,
+			"time": 129202,
+			"type": 1,
+			"hitSound": 0,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 3,
+			"y": 192,
+			"time": 129433,
+			"type": 1,
+			"hitSound": 2,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 2,
+			"y": 192,
+			"time": 129664,
+			"type": 1,
+			"hitSound": 6,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 0,
+			"y": 192,
+			"time": 129664,
+			"type": 1,
+			"hitSound": 8,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 3,
+			"y": 192,
+			"time": 129895,
+			"type": 1,
+			"hitSound": 2,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 0,
+			"y": 192,
+			"time": 130125,
+			"type": 1,
+			"hitSound": 14,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 2,
+			"y": 192,
+			"time": 130125,
+			"type": 1,
+			"hitSound": 0,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 1,
+			"y": 192,
+			"time": 130356,
+			"type": 1,
+			"hitSound": 0,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 2,
+			"y": 192,
+			"time": 130587,
+			"type": 1,
+			"hitSound": 2,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 1,
+			"y": 192,
+			"time": 130818,
+			"type": 1,
+			"hitSound": 0,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 0,
+			"y": 192,
+			"time": 131048,
+			"type": 128,
+			"hitSound": 10,
+			"column": 0,
+			"is_hold": true,
+			"end_time": 131971,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 2,
+			"y": 192,
+			"time": 131279,
+			"type": 1,
+			"hitSound": 0,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 3,
+			"y": 192,
+			"time": 131510,
+			"type": 1,
+			"hitSound": 2,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 2,
+			"y": 192,
+			"time": 131741,
+			"type": 1,
+			"hitSound": 0,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 3,
+			"y": 192,
+			"time": 131971,
+			"type": 1,
+			"hitSound": 14,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 1,
+			"y": 192,
+			"time": 131971,
+			"type": 1,
+			"hitSound": 0,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 0,
+			"y": 192,
+			"time": 132433,
+			"type": 1,
+			"hitSound": 2,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 1,
+			"y": 192,
+			"time": 132433,
+			"type": 1,
+			"hitSound": 12,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 3,
+			"y": 192,
+			"time": 132895,
+			"type": 1,
+			"hitSound": 6,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 2,
+			"y": 192,
+			"time": 132895,
+			"type": 1,
+			"hitSound": 8,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 1,
+			"y": 192,
+			"time": 133125,
+			"type": 1,
+			"hitSound": 2,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 0,
+			"y": 192,
+			"time": 133356,
+			"type": 1,
+			"hitSound": 8,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 3,
+			"y": 192,
+			"time": 133356,
+			"type": 1,
+			"hitSound": 6,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 2,
+			"y": 192,
+			"time": 133587,
+			"type": 1,
+			"hitSound": 2,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 3,
+			"y": 192,
+			"time": 133818,
+			"type": 1,
+			"hitSound": 6,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 0,
+			"y": 192,
+			"time": 133818,
+			"type": 1,
+			"hitSound": 0,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 2,
+			"y": 192,
+			"time": 134048,
+			"type": 1,
+			"hitSound": 8,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 1,
+			"y": 192,
+			"time": 134279,
+			"type": 1,
+			"hitSound": 2,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 0,
+			"y": 192,
+			"time": 134279,
+			"type": 1,
+			"hitSound": 0,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 2,
+			"y": 192,
+			"time": 134510,
+			"type": 1,
+			"hitSound": 8,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 0,
+			"y": 192,
+			"time": 134741,
+			"type": 1,
+			"hitSound": 2,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 3,
+			"y": 192,
+			"time": 134741,
+			"type": 1,
+			"hitSound": 0,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 2,
+			"y": 192,
+			"time": 134971,
+			"type": 1,
+			"hitSound": 8,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 1,
+			"y": 192,
+			"time": 135202,
+			"type": 1,
+			"hitSound": 2,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 0,
+			"y": 192,
+			"time": 135202,
+			"type": 1,
+			"hitSound": 0,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 3,
+			"y": 192,
+			"time": 135433,
+			"type": 1,
+			"hitSound": 8,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 0,
+			"y": 192,
+			"time": 135664,
+			"type": 1,
+			"hitSound": 2,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 1,
+			"y": 192,
+			"time": 135664,
+			"type": 1,
+			"hitSound": 0,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 2,
+			"y": 192,
+			"time": 135895,
+			"type": 1,
+			"hitSound": 8,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 3,
+			"y": 192,
+			"time": 136125,
+			"type": 1,
+			"hitSound": 2,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 0,
+			"y": 192,
+			"time": 136125,
+			"type": 1,
+			"hitSound": 0,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 1,
+			"y": 192,
+			"time": 136356,
+			"type": 1,
+			"hitSound": 8,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 2,
+			"y": 192,
+			"time": 136587,
+			"type": 1,
+			"hitSound": 2,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 3,
+			"y": 192,
+			"time": 136587,
+			"type": 1,
+			"hitSound": 0,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 0,
+			"y": 192,
+			"time": 136818,
+			"type": 1,
+			"hitSound": 8,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 1,
+			"y": 192,
+			"time": 136818,
+			"type": 1,
+			"hitSound": 0,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 2,
+			"y": 192,
+			"time": 137048,
+			"type": 1,
+			"hitSound": 2,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 3,
+			"y": 192,
+			"time": 137048,
+			"type": 1,
+			"hitSound": 0,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 0,
+			"y": 192,
+			"time": 137279,
+			"type": 1,
+			"hitSound": 8,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 1,
+			"y": 192,
+			"time": 137279,
+			"type": 1,
+			"hitSound": 0,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 3,
+			"y": 192,
+			"time": 137510,
+			"type": 1,
+			"hitSound": 6,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 2,
+			"y": 192,
+			"time": 137510,
+			"type": 1,
+			"hitSound": 0,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 1,
+			"y": 192,
+			"time": 137741,
+			"type": 1,
+			"hitSound": 8,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 2,
+			"y": 192,
+			"time": 137971,
+			"type": 1,
+			"hitSound": 2,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 0,
+			"y": 192,
+			"time": 137971,
+			"type": 1,
+			"hitSound": 0,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 1,
+			"y": 192,
+			"time": 138202,
+			"type": 1,
+			"hitSound": 8,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 3,
+			"y": 192,
+			"time": 138433,
+			"type": 1,
+			"hitSound": 2,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 0,
+			"y": 192,
+			"time": 138433,
+			"type": 1,
+			"hitSound": 0,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 2,
+			"y": 192,
+			"time": 138664,
+			"type": 1,
+			"hitSound": 8,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 0,
+			"y": 192,
+			"time": 138895,
+			"type": 1,
+			"hitSound": 2,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 3,
+			"y": 192,
+			"time": 138895,
+			"type": 1,
+			"hitSound": 0,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 1,
+			"y": 192,
+			"time": 139125,
+			"type": 1,
+			"hitSound": 8,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 3,
+			"y": 192,
+			"time": 139356,
+			"type": 1,
+			"hitSound": 2,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 0,
+			"y": 192,
+			"time": 139356,
+			"type": 1,
+			"hitSound": 0,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 2,
+			"y": 192,
+			"time": 139587,
+			"type": 1,
+			"hitSound": 8,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 1,
+			"y": 192,
+			"time": 139818,
+			"type": 1,
+			"hitSound": 2,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 3,
+			"y": 192,
+			"time": 139818,
+			"type": 1,
+			"hitSound": 0,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 0,
+			"y": 192,
+			"time": 140048,
+			"type": 1,
+			"hitSound": 8,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 3,
+			"y": 192,
+			"time": 140279,
+			"type": 1,
+			"hitSound": 2,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 2,
+			"y": 192,
+			"time": 140279,
+			"type": 1,
+			"hitSound": 0,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 1,
+			"y": 192,
+			"time": 140510,
+			"type": 1,
+			"hitSound": 8,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 3,
+			"y": 192,
+			"time": 140741,
+			"type": 1,
+			"hitSound": 2,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 0,
+			"y": 192,
+			"time": 140741,
+			"type": 1,
+			"hitSound": 0,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 1,
+			"y": 192,
+			"time": 140971,
+			"type": 1,
+			"hitSound": 10,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 2,
+			"y": 192,
+			"time": 140971,
+			"type": 1,
+			"hitSound": 0,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 3,
+			"y": 192,
+			"time": 141202,
+			"type": 1,
+			"hitSound": 6,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 0,
+			"y": 192,
+			"time": 141202,
+			"type": 1,
+			"hitSound": 0,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 2,
+			"y": 192,
+			"time": 141433,
+			"type": 1,
+			"hitSound": 8,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 1,
+			"y": 192,
+			"time": 141664,
+			"type": 1,
+			"hitSound": 2,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 3,
+			"y": 192,
+			"time": 141664,
+			"type": 1,
+			"hitSound": 0,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 0,
+			"y": 192,
+			"time": 141895,
+			"type": 1,
+			"hitSound": 8,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 3,
+			"y": 192,
+			"time": 142125,
+			"type": 1,
+			"hitSound": 2,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 2,
+			"y": 192,
+			"time": 142125,
+			"type": 1,
+			"hitSound": 0,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 1,
+			"y": 192,
+			"time": 142356,
+			"type": 1,
+			"hitSound": 8,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 3,
+			"y": 192,
+			"time": 142587,
+			"type": 1,
+			"hitSound": 2,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 0,
+			"y": 192,
+			"time": 142587,
+			"type": 1,
+			"hitSound": 0,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 2,
+			"y": 192,
+			"time": 142818,
+			"type": 1,
+			"hitSound": 8,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 0,
+			"y": 192,
+			"time": 143048,
+			"type": 1,
+			"hitSound": 2,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 3,
+			"y": 192,
+			"time": 143048,
+			"type": 1,
+			"hitSound": 0,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 1,
+			"y": 192,
+			"time": 143279,
+			"type": 1,
+			"hitSound": 8,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 0,
+			"y": 192,
+			"time": 143510,
+			"type": 1,
+			"hitSound": 2,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 3,
+			"y": 192,
+			"time": 143510,
+			"type": 1,
+			"hitSound": 0,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 2,
+			"y": 192,
+			"time": 143741,
+			"type": 1,
+			"hitSound": 8,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 0,
+			"y": 192,
+			"time": 143971,
+			"type": 1,
+			"hitSound": 2,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 1,
+			"y": 192,
+			"time": 143971,
+			"type": 1,
+			"hitSound": 0,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 3,
+			"y": 192,
+			"time": 144202,
+			"type": 1,
+			"hitSound": 8,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 2,
+			"y": 192,
+			"time": 144433,
+			"type": 1,
+			"hitSound": 2,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 1,
+			"y": 192,
+			"time": 144433,
+			"type": 1,
+			"hitSound": 0,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 0,
+			"y": 192,
+			"time": 144664,
+			"type": 1,
+			"hitSound": 10,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 3,
+			"y": 192,
+			"time": 144664,
+			"type": 1,
+			"hitSound": 0,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 1,
+			"y": 192,
+			"time": 144895,
+			"type": 1,
+			"hitSound": 6,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 2,
+			"y": 192,
+			"time": 144895,
+			"type": 1,
+			"hitSound": 0,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 1,
+			"y": 192,
+			"time": 145125,
+			"type": 1,
+			"hitSound": 8,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 3,
+			"y": 192,
+			"time": 145356,
+			"type": 1,
+			"hitSound": 2,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 2,
+			"y": 192,
+			"time": 145356,
+			"type": 1,
+			"hitSound": 0,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 2,
+			"y": 192,
+			"time": 145587,
+			"type": 1,
+			"hitSound": 8,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 1,
+			"y": 192,
+			"time": 145818,
+			"type": 1,
+			"hitSound": 6,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 0,
+			"y": 192,
+			"time": 145818,
+			"type": 1,
+			"hitSound": 0,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 0,
+			"y": 192,
+			"time": 146048,
+			"type": 1,
+			"hitSound": 8,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 2,
+			"y": 192,
+			"time": 146279,
+			"type": 1,
+			"hitSound": 2,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 3,
+			"y": 192,
+			"time": 146279,
+			"type": 1,
+			"hitSound": 0,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 3,
+			"y": 192,
+			"time": 146510,
+			"type": 1,
+			"hitSound": 8,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 0,
+			"y": 192,
+			"time": 146741,
+			"type": 1,
+			"hitSound": 6,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 2,
+			"y": 192,
+			"time": 146741,
+			"type": 1,
+			"hitSound": 0,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 1,
+			"y": 192,
+			"time": 146971,
+			"type": 1,
+			"hitSound": 10,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 3,
+			"y": 192,
+			"time": 147202,
+			"type": 1,
+			"hitSound": 6,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 0,
+			"y": 192,
+			"time": 147202,
+			"type": 1,
+			"hitSound": 0,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 2,
+			"y": 192,
+			"time": 147433,
+			"type": 1,
+			"hitSound": 10,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 0,
+			"y": 192,
+			"time": 147664,
+			"type": 1,
+			"hitSound": 6,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 3,
+			"y": 192,
+			"time": 147664,
+			"type": 1,
+			"hitSound": 0,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 1,
+			"y": 192,
+			"time": 147895,
+			"type": 1,
+			"hitSound": 10,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 3,
+			"y": 192,
+			"time": 148125,
+			"type": 1,
+			"hitSound": 6,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 0,
+			"y": 192,
+			"time": 148125,
+			"type": 1,
+			"hitSound": 0,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 2,
+			"y": 192,
+			"time": 148356,
+			"type": 1,
+			"hitSound": 10,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 0,
+			"y": 192,
+			"time": 148587,
+			"type": 1,
+			"hitSound": 6,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		},
+		{
+			"x": 3,
+			"y": 192,
+			"time": 148587,
+			"type": 1,
+			"hitSound": 0,
+			"column": 0,
+			"is_hold": false,
+			"end_time": null,
+			"hitSample": {
+				"normalSet": 0,
+				"additionSet": 0,
+				"index": 0,
+				"volume": 0,
+				"filename": ""
+			}
+		}
+	]
+}
